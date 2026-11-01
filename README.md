@@ -5,6 +5,7 @@ Telegram bot that logs group chat messages to Supabase, sends a daily AI-generat
 > **Status:** exported snapshot of a workflow that ran in production for a real client. Client-specific data, IDs and secrets were removed, so the workflow needs configuration before it runs (see [Setup](#setup) and [Known limitations](#known-limitations)).
 
 <!-- Add: screenshot of the workflow, GIF of a digest in a test chat -->
+<img width="1624" height="725" alt="image" src="https://github.com/user-attachments/assets/61fdbe08-1407-49b8-9872-0d4a29e199a1" />
 
 ## How it works
 
