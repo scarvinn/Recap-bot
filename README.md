@@ -117,6 +117,3 @@ These checks are suggested steps; this repository does not include execution evi
 - [ ] Add sample input/output and repeatable workflow checks.
 - [ ] Retrieve relevant memories if long-term context is needed.
 
-## License
-
-The previous README stated MIT, but this repository does not currently include a `LICENSE` file. Add one to make the intended licensing explicit.
